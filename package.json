@@ -1,0 +1,21 @@
+{
+  "name": "tuan3-product-dashboard",
+  "version": "1.0.0",
+  "description": "Product Dashboard with Bootstrap - Tuần 3",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx live-server --port=3000",
+    "dev": "npx live-server --port=3000 --open=index.html"
+  },
+  "keywords": [
+    "dashboard",
+    "bootstrap",
+    "products",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
